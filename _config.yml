@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 缥缈孤鸿影
+title: 碎碎念
 email: jianyifu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  TBD
+  一个总是心怀不轨的女程序员，脑袋里总是充斥着各种奇奇怪怪的想法，奈何文笔不足以表达心境，亦无法将生活的美好完美呈现笔端，零零散散的想法，毫无踪迹可寻的心绪，简单记录下来，望若干年后，能够为自己的文字所感动，平和一笑，拥抱过去，畅想未来。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jianyifu
+twitter_username: FuJianyi
 github_username:  jianyifu
 
 # Build settings
