@@ -6,7 +6,7 @@ category: english
 
 [文章原文来自《经济学人》2020年2月22日 China](https://www.economist.com/china/2020/02/22/amid-a-virus-lockdown-how-are-chinas-migrant-workers-surviving?cid1=cust/ednew/n/bl/n/2020/02/29n/owned/n/n/nwl/n/n/AP/415278/n)
 
-## Useful Expressions
+#### Useful Expressions
 1. 无力感
 a sense of powerlessness
 2. 减少的存款
@@ -25,7 +25,7 @@ in common with many of China's 173m long-distance  migrant workers
 this subdued lunar new year
 9. 旅行限制
 curbs on travel
-10. Covid-19很大程度上使四川的这个角落得以幸免
+10. Covid-19使四川的这个角落很大程度上得以幸免
 Covid-19 has largely spared this corner of Sichuan.
 11. 至发稿时，有22例确诊病例
 As The Economist went to press, there were 22 confirmed cases.
