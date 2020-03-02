@@ -1,4 +1,9 @@
-# 疫情下的农民工如何生存？
+---
+layout: post
+title:  "疫情下的农民工如何生存?"
+category: english
+---
+
 [文章原文来自《经济学人》2020年2月22日 China](https://www.economist.com/china/2020/02/22/amid-a-virus-lockdown-how-are-chinas-migrant-workers-surviving?cid1=cust/ednew/n/bl/n/2020/02/29n/owned/n/n/nwl/n/n/AP/415278/n)
 
 ## Useful Expressions
