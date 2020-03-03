@@ -6,7 +6,7 @@ category: math
 本文转载自[角度制与弧度制](http://math001.com/degree_radian_measure/)
 
 
-1.  角度制（Degree Measure）
+## 1. 角度制（Degree Measure）
 
  ![](http://math001.com/wp-content/uploads/geometry/degrees-360.gif)
  
@@ -18,7 +18,7 @@ category: math
  ![](http://math001.com/wp-content/uploads/geometry/protractor.gif)
  
  
-2. 弧度制（Radian Measure)
+## 2.  弧度制（Radian Measure)
 
 ![](http://math001.com/wp-content/uploads/geometry/1radian.gif)
 
@@ -31,7 +31,7 @@ category: math
 	 |θ| = l/r。
 ```
 
-3.  角度制与弧度制的换算
+## 3.  角度制与弧度制的换算
 ```
 	360° = 2π rad
 	180° = π rad
@@ -46,7 +46,7 @@ category: math
 
 ![](http://math001.com/wp-content/uploads/geometry/degree_radian_measure.gif)
 
-4. 弧长公式与扇形面积公式
+## 4. 弧长公式与扇形面积公式
 弧度制下：
 	- 弧长公式：
 	n是圆心角度数，r是半径，Θ是圆心角弧度。　
