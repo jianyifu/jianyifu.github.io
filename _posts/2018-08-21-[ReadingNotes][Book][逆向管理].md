@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "《逆向管理》读书笔记"
-category: blog
+category: readingnotes
 ---
 # 先行动，后思考
 
