@@ -11,15 +11,19 @@ category: math
  ![](http://math001.com/wp-content/uploads/geometry/degrees-360.gif)
  
  把一个圆周平均分成360份，其中的每一份都是1o的角。这种以“度”作为单位来度量角度单位制叫做角度制。下图是我们常见的180o角度尺 Protractor。
+ 
+ 
  ![](http://math001.com/wp-content/uploads/geometry/protractor.gif)
  
+ 
 2. 弧度制（Radian Measure)
+
 ![](http://math001.com/wp-content/uploads/geometry/1radian.gif)
 
 长度为半径长的弧，所对的圆心角是 1 弧度（Radian），用符号rad表示。
-
+```
 正角度弧度数是一个正数，负角度弧度数是一个负数，零角度弧度数。半径为r的圆的圆心角α 所对的弧度长为l，那么角α 的弧度数的绝对值是 | α | = l / r。
-
+```
 3.  角度制与弧度制的换算
 ```
 	360° = 2π rad
