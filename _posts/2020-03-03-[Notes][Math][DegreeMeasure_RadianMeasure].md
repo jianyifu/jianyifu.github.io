@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Degree Measure and Radian Measure 角度制与弧度制"
+title:  "角度制与弧度制(DegreeMeasure&RadianMeasure)"
 category: math
 ---
 本文转载自[角度制与弧度制](http://math001.com/degree_radian_measure/)
