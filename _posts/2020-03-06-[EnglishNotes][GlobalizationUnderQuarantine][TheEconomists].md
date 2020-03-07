@@ -1,7 +1,9 @@
 ---
 layout:post
 title:"隔离下的全球化"
+category:english
 ---
+
 原文摘自[《经济学人》Feb 29th 2020 edition](https://www.economist.com/china/2020/02/29/covid-19-is-teaching-hard-lessons-about-china-only-supply-chains)
 ## 1. 给世界带来痛苦的教训
 
